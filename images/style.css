@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+.continer{
+    width:100%;
+    height:100vh;
+    background-image:linear-gradient(to bottom,rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(donet.jpg);
+    background-position:center;
+    background-size;
+    background-repeat:no-repeat;
+   
+
+   
+}
+.content{
+    text-align:center;
+    color:white;
+    padding-top:300px;
+
+}
+
+.btn{
+    text-decoration:none;
+    background-color:red;
+    color:white;
+    padding:5px;
+    margin-top:10px;
+    border-radius:5px;
+    
+}
